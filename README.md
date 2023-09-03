@@ -1,6 +1,6 @@
 # Bienvenue sur le Compte GitHub HyperText
 
-![HyperText Logo](./logo.png)
+![HyperText Logo](./original.png)
 
 Bienvenue sur le compte GitHub officiel de la chaîne YouTube "HyperText" ! Notre chaîne est dédiée à l'exploration du monde passionnant de l'hyperlien et du web. Que vous soyez un développeur web en herbe, un professionnel chevronné ou simplement curieux de comprendre comment le web fonctionne, vous trouverez des ressources précieuses ici.
 
